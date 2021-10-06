@@ -1,0 +1,1 @@
+# Prese_typescript_object_types
